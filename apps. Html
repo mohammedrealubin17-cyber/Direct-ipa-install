@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apps</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Available Apps</h1>
+
+<div class="app">
+  <h2>My Test App</h2>
+  <p>Version 1.0</p>
+  <a href="install.html?app=testapp">
+    <button>Install</button>
+  </a>
+</div>
+
+<div class="app">
+  <h2>Another App</h2>
+  <p>Version 2.0</p>
+  <a href="install.html?app=another">
+    <button>Install</button>
+  </a>
+</div>
+
+</body>
+</html>
